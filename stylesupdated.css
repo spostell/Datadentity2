@@ -162,7 +162,7 @@ color: #E5E5E5;
 	margin-left: 199px;
 	margin-right: 200px;
 	margin-top: 150px;
-	margin-bottom: 138px;
+	margin-bottom: 150px;
 	text-align: left;
 }
 
@@ -265,7 +265,7 @@ color: #E5E5E5;
   height: 405px;
 margin-top: 50px;
 margin-bottom: 50px;
-	margin-left: 264px;
+
 }
 
 
@@ -279,11 +279,8 @@ margin-right: 263px;
 
 #appImage {
 float:left;
-/*position: relative;
- padding-left: 75px;
-padding-top:60px;*/
+margin-left:264px;
 }
-
 
 .footer {
   position:fixed;
