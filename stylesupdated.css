@@ -168,11 +168,12 @@ color: #E5E5E5;
 
 
 #bodytext3 {
-	position:relative;
-	width: 1015px;
+position:relative;
+width: 1015px; 
 height: 151px;
-left: 213px;
-top: 350px;
+left: 100px;
+text-align: center;
+
 }
 
 
