@@ -159,10 +159,10 @@ color: #E5E5E5;
 	position: relative;
 	width: 1041px;
 	height: 453px;
-	padding-left: 199px;
-	padding-right: 200px;
-	padding-top: 137px;
-	padding-bottom: 138px;
+	margin-left: 199px;
+	margin-right: 200px;
+	margin-top: 137px;
+	margin-bottom: 138px;
 	text-align: left;
 }
 
@@ -263,24 +263,24 @@ color: #E5E5E5;
   background-color: #656666;
   width: 1440px;
   height: 405px;
-padding-top: 50px;
-padding-bottom: 50px;
-	padding-left: 264px;
-	padding-right: 263px;
+margin-top: 50px;
+margin-bottom: 50px;
+	margin-left: 264px;
+	margin-right: 263px;
 }
 
 
 #apptext {
   float:right;
- padding-left: 76px;
- padding-top:49px;
+ margin-left: 76px;
+ margin-top:49px;
 }
 
 
 #appImage {
 float:left;
-position: relative;
-/* padding-left: 75px;
+/*position: relative;
+ padding-left: 75px;
 padding-top:60px;*/
 }
 
