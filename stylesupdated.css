@@ -156,6 +156,7 @@ top: 27px;
 
 
 #bodytext2 {
+	position: relative;
 	width: 1041px;
 	height: 453px;
 	padding-left: 199px;
@@ -268,7 +269,6 @@ padding-bottom: 60px;
 
 #apptext {
   float:right;
- position:relative;
  padding-left: 76px;
 padding-right: 263px;
  padding-top:60px;
@@ -276,7 +276,7 @@ padding-right: 263px;
 
 
 #appImage {
-  position: relative;
+position: relative;
 width: 153px;
 height: 220px;
 left: 264px;
