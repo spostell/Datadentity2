@@ -150,6 +150,7 @@ top: 27px;
 	color: #E5E5E5;
 	padding-left: 75px;
   	padding-right: 75px;
+	padding-bottom: 126px;
 }
 #bodytext3 {
 	font-family: inter-regular;
@@ -178,6 +179,7 @@ top: 27px;
   height: 650px;
   background-color: #7215FE;
   flex-direction: row;
+	padding-bottom: 126px;
 }
 
 
