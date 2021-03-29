@@ -262,8 +262,8 @@ top: 27px;
   background-color: #656666;
   width: 1440px;
   height: 405px;
-padding-top: 60px;
-padding-bottom: 60px;
+padding-top: 63px;
+padding-bottom: 62px;
 }
 
 
@@ -271,14 +271,14 @@ padding-bottom: 60px;
   float:right;
  padding-left: 76px;
 padding-right: 263px;
- padding-top:60px;
+ padding-top:49px;
 }
 
 
 #appImage {
 float:left;
-padding-left: 264px;
-padding-top: 93px;
+position: relative;
+left: 264px;
 }
 
 
