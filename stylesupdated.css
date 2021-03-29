@@ -276,11 +276,10 @@ padding-right: 263px;
 
 
 #appImage {
-position: relative;
 width: 153px;
 height: 220px;
-left: 264px;
-top: 4003px;
+padding-left: 264px;
+padding-top: 4003px;
 }
 
 
