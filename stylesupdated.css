@@ -262,15 +262,16 @@ top: 27px;
   background-color: #656666;
   width: 1440px;
   height: 405px;
-padding-top: 63px;
-padding-bottom: 30px;
+padding-top: 93px;
+padding-bottom: 93px;
+	padding-left: 264px;
+	padding-right: 263px;
 }
 
 
 #apptext {
   float:right;
  padding-left: 76px;
-padding-right: 263px;
  padding-top:49px;
 }
 
@@ -278,8 +279,8 @@ padding-right: 263px;
 #appImage {
 float:left;
 position: relative;
-padding-left: 75px;
-padding-top:60px;
+/* padding-left: 75px;
+padding-top:60px;*/
 }
 
 
