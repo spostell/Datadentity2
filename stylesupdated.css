@@ -115,7 +115,7 @@
 }
 
 
-  h1{
+h1{
 	font-family: inter-bold;
 	font-style: normal;
 	font-size: 50px;
@@ -156,7 +156,7 @@ top: 27px;
 
 
 #bodytext2 {
-	padding-left: 199px;
+	margin-left: 199px;
   	padding-right: 200px;
 	padding-top: 138px;
 	padding-bottom: 138px;
@@ -192,7 +192,7 @@ top: 27px;
   height: 650px;
   background-color: #7215FE;
   flex-direction: row;
-	padding-bottom: 126px;
+	padding-bottom: 100px;
 }
 
 
@@ -207,16 +207,6 @@ top: 27px;
     padding:15px;
     display: block;
     margin: 0 auto;
-}
-
-
-#caption {
-  font-family: inter-regular;
-	font-style: normal;
-	font-weight: 500;
-	font-size: 22px;
-	line-height: 44px;
-	color: #E5E5E5;
 }
 
 
