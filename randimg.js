@@ -8,7 +8,7 @@ caption3 = "Hmm... we have completed our analysis and from the looks of it: <br>
 You've been listening to a lot of heavy metal lately. Like... a LOT. You ok? Your obsession with Starbucks also can't be healthy. But alright, you're out here educating yourself on animal rights and protection. Although, there are already enough people like you who are spamming the internet with pictures of dogs and cats.";
 var captions = new Array(caption1, caption2, caption3);
 
-var pics = new Array("assets/birdimage.png", "assets/dogimage.png", "assets/pandaimage.png");
+var pics = new Array("birdimage.png", "dogimage.png", "pandaimage.png");
 
 var rnd = Math.floor(Math.random() * pics.length);
 
