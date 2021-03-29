@@ -124,16 +124,6 @@ color: #E5E5E5;
 }
 
 
-p{
-font-family: inter-regular;
-font-style: normal;
-font-weight: 500;
-font-size: 36px;
-line-height: 44px;
-color: #E5E5E5;
-}
-
-
 .navBar {
     overflow: hidden;
     padding-bottom: 20px;
@@ -148,6 +138,12 @@ color: #E5E5E5;
 
 
 #bodytext1 {
+	font-family: inter-regular;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #E5E5E5;
 	padding-left: 75px;
 	padding-right: 75px;
 	padding-bottom: 75px;
@@ -156,6 +152,12 @@ color: #E5E5E5;
 
 
 #bodytext2 {
+	font-family: inter-regular;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #E5E5E5;
 	position: relative;
 	width: 1041px;
 	height: 453px;
@@ -168,6 +170,12 @@ color: #E5E5E5;
 
 
 #bodytext3 {
+	font-family: inter-regular;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #E5E5E5;
 position:relative;
 width: 1015px; 
 height: 151px;
@@ -262,6 +270,12 @@ color: #E5E5E5;
 
 
 #avatartext {
+	font-family: inter-regular;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #E5E5E5;
  position:relative;
   margin-left:700px;
   top:120px;
@@ -286,6 +300,12 @@ color: #E5E5E5;
 
 
 #apptext {
+	font-family: inter-regular;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #E5E5E5;
   float:right;
   position: relative;
   margin-left:76px;
