@@ -242,7 +242,7 @@ top: 27px;
 
 
 #avatartext {
- position: absolute;
+ position: relative;
 width: 683px;
 height: 122px;
 left: 493px;
