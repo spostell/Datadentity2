@@ -242,11 +242,10 @@ top: 27px;
 
 
 #avatartext {
- position: relative;
-width: 541px;
-height: 265px;
-left: 744px;
-top: 205px;
+ position:relative;
+  margin-left:700px;
+  top:120px;
+  padding-right: 100px;
 }
 
 
