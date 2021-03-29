@@ -176,6 +176,23 @@ text-align: center;
 padding-bottom:80px;
 
 }
+#complete {
+font-family: inter-bold;
+font-style: normal;
+font-size: 24px;
+line-height: 29px;
+color: #FD7535;	
+}
+
+
+#caption {
+font-family: inter-regular;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 44px;
+color: #E5E5E5;
+}
 
 
 #scrollImage {
