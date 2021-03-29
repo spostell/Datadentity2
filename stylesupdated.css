@@ -140,7 +140,14 @@ top: 27px;
 	font-size: 36px;
 	line-height: 44px;
 	color: #E5E5E5;
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-bottom: 75px;
+	text-align: center;
 }
+}
+
+
 #bodytext2 {
 	font-family: inter-regular;
 	font-style: normal;
@@ -152,6 +159,8 @@ top: 27px;
   	padding-right: 75px;
 	padding-bottom: 126px;
 }
+
+
 #bodytext3 {
 	font-family: inter-regular;
 	font-style: normal;
@@ -160,6 +169,8 @@ top: 27px;
 	line-height: 44px;
 	color: #E5E5E5;
 }
+
+
 #scrollImage {
     margin-left: auto;
     margin-right: auto;
@@ -168,20 +179,19 @@ top: 27px;
 	left: 100px;
 }
 
+
 #video {
   margin-left: 270px;
   height: 618px;
 }
 
 .purplebox {
-
   width: 1440px;
   height: 650px;
   background-color: #7215FE;
   flex-direction: row;
 	padding-bottom: 126px;
 }
-
 
 
   #generatebutton {
@@ -195,8 +205,8 @@ top: 27px;
     padding:15px;
     display: block;
     margin: 0 auto;
-
 }
+
 
 #caption {
   font-family: inter-regular;
@@ -207,17 +217,21 @@ top: 27px;
 	color: #E5E5E5;
 }
 
+
 #avatar1 {
   z-index: 1;
   position: absolute;
 }
+
+
 #avatar2 {
   z-index: 2;
   margin-left:280px;
   position:relative;
-  top:150px;
- 
+  top:150px; 
 }
+
+
 #avatar3 {
   z-index: 3;
   margin-left: 35px;
@@ -225,21 +239,12 @@ top: 27px;
   top: 50px;
 }
 
-#vidtext {
-  float:left;
-  padding-left: 75px;
-  padding-right: 75px;
-padding-bottom: 75px;
-	text-align: center;
-}
 
 #vidlogo {
     position: relative;
     text-align: center;
 	padding-bottom: 300px;
-
 }
-
 
 
 #avatartext {
@@ -247,15 +252,15 @@ padding-bottom: 75px;
   margin-left:700px;
   top:120px;
   padding-right: 100px;
-
 }
+
 
 #pics {
   position:relative;
   float:left;
-  margin-top:30px;
-  
+  margin-top:30px;  
 }
+
 
 #greybox {
   position: relative;
@@ -266,13 +271,12 @@ padding-bottom: 75px;
 
 }
 
+
 #apptext {
   float:right;
  position:relative;
  padding-right: 75px;
  padding-top:60px;
-
-
 
 }
 
@@ -283,7 +287,6 @@ padding-bottom: 75px;
   padding-left: 75px;
   padding-top:20px;
 }
-
 
 
 .footer {
