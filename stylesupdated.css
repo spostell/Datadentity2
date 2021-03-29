@@ -116,11 +116,11 @@
 
 
 h1{
-	font-family: inter-bold;
-	font-style: normal;
-	font-size: 50px;
-	line-height: 61px;
-	color: #E5E5E5;
+font-family: inter-bold;
+font-style: normal;
+font-size: 50px;
+line-height: 61px;
+color: #E5E5E5;
 }
 
 
@@ -137,8 +137,8 @@ color: #E5E5E5;
 .navBar {
     overflow: hidden;
     padding-bottom: 20px;
-     left: 66px;
-top: 27px;
+	left: 66px;
+	top: 27px;
   }
   
 
@@ -161,6 +161,7 @@ top: 27px;
 	height: 453px;
 	padding-left: 199px;
 	padding-right: 200px;
+	padding-top: 137px;
 	padding-bottom: 138px;
 	text-align: left;
 }
@@ -262,8 +263,8 @@ top: 27px;
   background-color: #656666;
   width: 1440px;
   height: 405px;
-padding-top: 93px;
-padding-bottom: 93px;
+padding-top: 50px;
+padding-bottom: 50px;
 	padding-left: 264px;
 	padding-right: 263px;
 }
