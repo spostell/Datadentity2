@@ -278,7 +278,8 @@ padding-right: 263px;
 #appImage {
 float:left;
 position: relative;
-left: 264px;
+padding-left: 75px;
+padding-top:20px;
 }
 
 
