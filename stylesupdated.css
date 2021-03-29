@@ -267,12 +267,14 @@ top: 350px;
 
 
 #apptext {
-position: relative;
-margin-left:76px;
-padding-top: 20px;
-padding-right:263px;
-	
+  float:right;
+  position: relative;
+  margin-left:76px;
+  padding-top: 20px;
+  padding-right:263px;
+    
 }
+
 
 
 #appImage {
