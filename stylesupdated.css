@@ -263,8 +263,7 @@ color: #E5E5E5;
   background-color: #656666;
   width: 1440px;
   height: 405px;
-margin-top: 60px;
-margin-bottom: 50px;
+margin-top: 70px;
 
 }
 
@@ -276,16 +275,17 @@ margin-right: 263px;
  margin-top:30px;*/
 position: relative;
 margin-left:493px;
-top:142px;
-padding-right:263px;
+margin-top:142px;
+margin-right:263px;
 }
 
 
 #appImage {
 position: relative;
 margin-left:264px;
-top:93px;
-padding-right: 1022px;
+/*top:93px;*/
+margin-top: 93px;
+margin-right: 1022px;
 
 }
 
