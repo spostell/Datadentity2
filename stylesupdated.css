@@ -155,7 +155,8 @@ top: 27px;
 }
 
 
-.bodytext2 {
+#bodytext2 {
+	position: relative;
 	padding-left: 199px;
   	padding-right: 200px;
 	padding-top: 138px;
