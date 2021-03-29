@@ -276,8 +276,7 @@ padding-right: 263px;
 
 
 #appImage {
-width: 153px;
-height: 220px;
+float:left;
 padding-left: 264px;
 padding-top: 4003px;
 }
