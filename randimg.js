@@ -31,7 +31,7 @@ function disableButton() {
 function showCaption() {
 
 
-document.getElementById("analysisComplete").innerHTML = "Analysis complete.<br> \
+document.getElementById("complete").innerHTML = "Analysis complete.<br> \
 See below for an avatar that represents your most recent online activities and habits.";
     
 document.getElementById("caption").innerHTML = captions[rnd];
