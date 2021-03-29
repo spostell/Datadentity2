@@ -162,7 +162,7 @@ color: #E5E5E5;
 	margin-left: 199px;
 	margin-right: 200px;
 	margin-top: 150px;
-	margin-bottom: 150px;
+	margin-bottom: 170px;
 	text-align: left;
 }
 
@@ -263,7 +263,7 @@ color: #E5E5E5;
   background-color: #656666;
   width: 1440px;
   height: 405px;
-margin-top: 50px;
+margin-top: 60px;
 margin-bottom: 50px;
 
 }
@@ -273,13 +273,14 @@ margin-bottom: 50px;
   float:right;
  margin-left: 10px;
 margin-right: 263px;
- margin-top:49px;
+ margin-top:30px;
 }
 
 
 #appImage {
 float:left;
 margin-left:264px;
+
 }
 
 .footer {
