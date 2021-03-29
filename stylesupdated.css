@@ -243,10 +243,11 @@ top: 27px;
 
 
 #avatartext {
-  position:relative;
-  margin-left:700px;
-  top:120px;
-  padding-right: 100px;
+ position: absolute;
+width: 683px;
+height: 122px;
+left: 493px;
+top: 4052px;
 }
 
 
@@ -262,8 +263,8 @@ top: 27px;
   background-color: #656666;
   width: 1440px;
   height: 405px;
-padding-top: 92px;
-padding-bottom: 92px;
+padding-top: 60px;
+padding-bottom: 60px;
 }
 
 
@@ -277,10 +278,11 @@ padding-right: 263px;
 
 
 #appImage {
-  float:left;
   position: relative;
-  padding-left: 264px;
-  padding-top:93px;
+width: 153px;
+height: 220px;
+left: 264px;
+top: 4003px;
 }
 
 
