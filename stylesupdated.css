@@ -1,0 +1,289 @@
+@font-face {
+    font-family: 'inter-regular';
+    src: url('inter_regular.eot');
+    src: url('inter_regular.eot?#iefix') format('embedded-opentype');
+    src: url('inter-regular.svg#Inter-Regular') format('svg'),
+         url('inter-regular.ttf') format('truetype'),
+         url('inter-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'inter-bold';
+    src: url('inter-bold.eot');
+    src: url('inter-bold.eot?#iefix') format('embedded-opentype'),
+         url('inter-bold.svg#Inter-Bold') format('svg'),
+         url('inter-bold.ttf') format('truetype'),
+         url('inter-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  .marquee {
+  margin: 0 auto;
+  white-space: nowrap;
+  
+  width: 1630px;
+  height: 121px;
+ 
+  top: 831px;
+  color: white;
+  font-family: inter-bold;
+  color: #FD7535;
+  font-size: 50px;
+}
+
+.marquee span {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 28s linear infinite;
+  font-family: inter-bold;
+  color: #FD7535;
+  font-size: 50px;
+}
+
+.marquee2 span {
+  animation-delay: 2.5s;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+  
+  body{
+      background-color: #1D1D1D;
+  }
+  a {
+    text-decoration: none;
+
+  }
+
+  div {
+    display: block;
+  }
+  .button {
+      font-family: inter-regular;
+      font-size: 30px;
+      color: #E1E1E1;
+      text-transform: capitalize;
+      text-align: center;
+      vertical-align: middle;
+        display: inline-block;
+        margin: 4px 2px;
+  }
+
+.navbutton {
+	border: 4px solid #E1E1E1;
+	border-radius: 100px;
+	background: none;
+	position: absolute;
+  width: 312px;
+  line-height: 55px;
+	height: 55px;
+	left: 1016px;
+	top: 41px;
+}
+.outlinedbutton {
+	border: 4px solid #E1E1E1;
+	border-radius: 100px;
+	background: none;
+  width: 414px;
+  line-height: 55px;
+  height: 55px;
+}
+.purplebutton {
+	border-radius: 100px;
+	background: #7215FE;
+	position: absolute;
+	width: 414px;
+	height: 94.54px;
+	left: 513px;
+	top: 554px;
+}
+  h1{
+	font-family: inter-bold;
+	font-style: normal;
+	font-size: 50px;
+	line-height: 61px;
+	color: #E5E5E5;
+}
+
+p{
+  font-family: inter-regular;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #E5E5E5;
+}
+
+.navBar {
+    overflow: hidden;
+    padding-bottom: 20px;
+     left: 66px;
+top: 27px;
+  }
+  
+.navBar a {
+    float:left;
+  
+}
+
+#bodytext1 {
+	font-family: inter-regular;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 44px;
+	color: #E5E5E5;
+}
+#bodytext2 {
+	font-family: inter-regular;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 44px;
+	color: #E5E5E5;
+	padding-left: 75px;
+  	padding-right: 75px;
+}
+#bodytext3 {
+	font-family: inter-regular;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 44px;
+	color: #E5E5E5;
+}
+#scrollImage {
+    margin-left: auto;
+    margin-right: auto;
+	width: 108px;
+	height: 84px;
+	left: 100px;
+}
+
+#video {
+  margin-left: 165px;
+  height: 618px;
+}
+
+.purplebox {
+
+  width: 1440px;
+  height: 650px;
+  background-color: #7215FE;
+  flex-direction: row;
+}
+
+
+
+  #generatebutton {
+    font-family: inter-regular;
+    color: #E1E1E1;
+    font-size: 30px;
+    line-height: 36px;
+    border: 4px solid #1D1D1D;
+	  border-radius: 100px;
+    background-color: #7215FE;
+    padding:15px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+#caption {
+  font-family: inter-regular;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 44px;
+	color: #E5E5E5;
+}
+
+#avatar1 {
+  z-index: 1;
+  position: absolute;
+}
+#avatar2 {
+  z-index: 2;
+  margin-left:280px;
+  position:relative;
+  top:150px;
+ 
+}
+#avatar3 {
+  z-index: 3;
+  margin-left: 35px;
+  position:relative;
+  top: 50px;
+}
+
+#vidtext {
+  float:left;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+#vidlogo {
+    position: relative;
+    text-align: center;
+
+}
+
+
+
+#avatartext {
+  position:relative;
+  margin-left:700px;
+  top:120px;
+  padding-right: 100px;
+
+}
+
+#pics {
+  position:relative;
+  float:left;
+  margin-top:30px;
+  
+}
+
+#greybox {
+  position: relative;
+  background-color: grey;
+  width: 1440px;
+  height: 240px;
+
+}
+
+#apptext {
+  float:right;
+ position:relative;
+ padding-right: 75px;
+ padding-top:60px;
+
+
+
+}
+
+
+#appImage {
+  float:left;
+  position: relative;
+  padding-left: 75px;
+  padding-top:20px;
+}
+
+
+
+.footer {
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+  }
+
+  
