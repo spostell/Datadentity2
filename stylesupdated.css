@@ -57,14 +57,18 @@
   body{
       background-color: #1D1D1D;
   }
+
+
   a {
     text-decoration: none;
-
   }
+
 
   div {
     display: block;
   }
+
+
   .button {
       font-family: inter-regular;
       font-size: 30px;
@@ -75,6 +79,7 @@
         display: inline-block;
         margin: 4px 2px;
   }
+
 
 .navbutton {
 	border: 4px solid #E1E1E1;
@@ -87,6 +92,8 @@
 	left: 1016px;
 	top: 41px;
 }
+
+
 .outlinedbutton {
 	border: 4px solid #E1E1E1;
 	border-radius: 100px;
@@ -95,6 +102,8 @@
   line-height: 55px;
   height: 55px;
 }
+
+
 .purplebutton {
 	border-radius: 100px;
 	background: #7215FE;
@@ -104,6 +113,8 @@
 	left: 513px;
 	top: 554px;
 }
+
+
   h1{
 	font-family: inter-bold;
 	font-style: normal;
@@ -112,14 +123,16 @@
 	color: #E5E5E5;
 }
 
+
 p{
-  font-family: inter-regular;
+font-family: inter-regular;
 font-style: normal;
 font-weight: 500;
 font-size: 36px;
 line-height: 44px;
 color: #E5E5E5;
 }
+
 
 .navBar {
     overflow: hidden;
@@ -128,37 +141,25 @@ color: #E5E5E5;
 top: 27px;
   }
   
+
 .navBar a {
     float:left;
-  
 }
 
+
 #bodytext1 {
-	font-family: inter-regular;
-	font-style: normal;
-	font-weight: 500;
-	font-size: 36px;
-	line-height: 44px;
-	color: #E5E5E5;
 	padding-left: 75px;
 	padding-right: 75px;
 	padding-bottom: 75px;
 	text-align: center;
 }
-}
 
 
 #bodytext2 {
-	font-family: inter-regular;
-	font-style: normal;
-	font-weight: 500;
-	font-size: 36px;
-	line-height: 44px;
-	color: #E5E5E5;
-	padding-left: 75px;
-  	padding-right: 75px;
-	padding-top: 126;
-	padding-bottom: 126px;
+	padding-left: 199px;
+  	padding-right: 200px;
+	padding-top: 138px;
+	padding-bottom: 138px;
 }
 
 
