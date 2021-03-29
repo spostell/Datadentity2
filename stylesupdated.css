@@ -156,11 +156,12 @@ top: 27px;
 
 
 #bodytext2 {
-	position: relative;
 	width: 1041px;
 	height: 453px;
-	left: 199px;
-	top: 3319px;
+	padding-left: 199px;
+	padding-right: 200px;
+	padding-bottom: 138px;
+	text-align: left;
 }
 
 
